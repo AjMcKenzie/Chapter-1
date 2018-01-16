@@ -7,7 +7,7 @@ class DebugOne2
    {
       WriteLine("CCCCC   #  #);
       WriteLine(C     ########");
-      WriteLine("C       #  #);
+      WriteLine("C       #  #");
       WriteLine("C     ########");
       WriteLine("CCCCC   #  #");
    }
